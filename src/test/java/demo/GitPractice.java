@@ -9,7 +9,7 @@ public class GitPractice {
 	public void demoUser()
 	{
 		System.out.println("Demo User Created");
-	}
+		System.out.println("New User Created");	}
 
 
 }
